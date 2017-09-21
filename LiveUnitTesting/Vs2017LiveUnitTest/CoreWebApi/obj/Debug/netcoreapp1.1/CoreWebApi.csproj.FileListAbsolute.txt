@@ -1,0 +1,22 @@
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.deps.json
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.runtimeconfig.json
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.runtimeconfig.dev.json
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.pdb
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.AssemblyInfoInputs.cache
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.AssemblyInfo.cs
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.pdb
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.deps.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.runtimeconfig.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.runtimeconfig.dev.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\bin\Debug\netcoreapp1.1\CoreWebApi.pdb
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.csprojResolveAssemblyReference.cache
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.csproj.CoreCompileInputs.cache
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.AssemblyInfoInputs.cache
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.AssemblyInfo.cs
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\Vs2017LiveUnitTest\CoreWebApi\obj\Debug\netcoreapp1.1\CoreWebApi.pdb

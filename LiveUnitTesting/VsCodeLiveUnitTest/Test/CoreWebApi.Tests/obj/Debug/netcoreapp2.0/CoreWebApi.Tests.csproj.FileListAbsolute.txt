@@ -1,0 +1,15 @@
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\CoreWebApi.Tests.deps.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\CoreWebApi.Tests.runtimeconfig.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\CoreWebApi.Tests.runtimeconfig.dev.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\CoreWebApi.Tests.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\CoreWebApi.Tests.pdb
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\obj\Debug\netcoreapp2.0\CoreWebApi.Tests.csproj.CoreCompileInputs.cache
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\obj\Debug\netcoreapp2.0\CoreWebApi.Tests.AssemblyInfoInputs.cache
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\obj\Debug\netcoreapp2.0\CoreWebApi.Tests.AssemblyInfo.cs
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\obj\Debug\netcoreapp2.0\CoreWebApi.Tests.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\obj\Debug\netcoreapp2.0\CoreWebApi.Tests.pdb
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\CoreWebApi.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\Test\CoreWebApi.Tests\bin\Debug\netcoreapp2.0\CoreWebApi.pdb

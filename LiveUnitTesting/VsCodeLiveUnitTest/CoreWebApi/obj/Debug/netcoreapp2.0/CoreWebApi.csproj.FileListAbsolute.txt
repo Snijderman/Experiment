@@ -1,0 +1,10 @@
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\bin\Debug\netcoreapp2.0\CoreWebApi.deps.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\bin\Debug\netcoreapp2.0\CoreWebApi.runtimeconfig.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\bin\Debug\netcoreapp2.0\CoreWebApi.runtimeconfig.dev.json
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\bin\Debug\netcoreapp2.0\CoreWebApi.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\bin\Debug\netcoreapp2.0\CoreWebApi.pdb
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\obj\Debug\netcoreapp2.0\CoreWebApi.csproj.CoreCompileInputs.cache
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\obj\Debug\netcoreapp2.0\CoreWebApi.AssemblyInfoInputs.cache
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\obj\Debug\netcoreapp2.0\CoreWebApi.AssemblyInfo.cs
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\obj\Debug\netcoreapp2.0\CoreWebApi.dll
+D:\Projecten\GitHub\Experiment\Experiment\LiveUnitTesting\VsCodeLiveUnitTest\CoreWebApi\obj\Debug\netcoreapp2.0\CoreWebApi.pdb

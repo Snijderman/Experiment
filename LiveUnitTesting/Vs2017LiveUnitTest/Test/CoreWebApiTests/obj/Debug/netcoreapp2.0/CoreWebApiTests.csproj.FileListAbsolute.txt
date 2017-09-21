@@ -1,0 +1,16 @@
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\CoreWebApiTests.deps.json
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\CoreWebApiTests.runtimeconfig.json
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\CoreWebApiTests.runtimeconfig.dev.json
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\CoreWebApiTests.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\CoreWebApiTests.pdb
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\CoreWebApi.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\bin\Debug\netcoreapp2.0\CoreWebApi.pdb
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\obj\Debug\netcoreapp2.0\CoreWebApiTests.csprojResolveAssemblyReference.cache
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\obj\Debug\netcoreapp2.0\CoreWebApiTests.csproj.CoreCompileInputs.cache
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\obj\Debug\netcoreapp2.0\CoreWebApiTests.AssemblyInfoInputs.cache
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\obj\Debug\netcoreapp2.0\CoreWebApiTests.AssemblyInfo.cs
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\obj\Debug\netcoreapp2.0\CoreWebApiTests.dll
+C:\Users\Snijderman\Documents\Visual Studio 2017\Projects\Vs2017LiveUnitTest\Test\CoreWebApiTests\obj\Debug\netcoreapp2.0\CoreWebApiTests.pdb
